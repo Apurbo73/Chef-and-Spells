@@ -27,4 +27,3 @@ This C++ program checks whether a given pair of integers `(A, B)` **matches** ei
 
 If `(A, B) = (3, 5)` and `(A1, B1) = (5, 3)` → it still counts as a match because order doesn’t matter.
 
-Let me know if you want a [diagram](f) or a [step-by-step dry run](f).
